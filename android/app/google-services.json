@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219073062751",
+    "project_id": "si2-p2",
+    "storage_bucket": "si2-p2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219073062751:android:165896fea0d97ce54ef8ea",
+        "android_client_info": {
+          "package_name": "com.example.app_taller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6Yvy9gTyR1-P7ITIsUVNUSXHuWUMbHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
